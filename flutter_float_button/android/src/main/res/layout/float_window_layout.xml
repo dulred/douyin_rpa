@@ -1,0 +1,13 @@
+<!-- res/layout/float_window_layout.xml -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <!-- 其他布局元素 -->
+
+    <Button
+        android:id="@+id/hideButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hide"/>
+</RelativeLayout>
